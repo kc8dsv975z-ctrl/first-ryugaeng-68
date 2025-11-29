@@ -7,7 +7,7 @@
 ---
 ## 1. top 명령어
 ###
-![top](https://upload.wikimedia.org/wikipedia/commons/6/6b/Top_in_Linux.png)
+![top]([https://upload.wikimedia.org/wikipedia/commons/6/6b/Top_in_Linux.png](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxODAyMDZfNjUg%2FMDAxNTE3ODg0ODU2MDY5.RcIsG2yqUswWLHKmCnEEo0DGFR0ZsQXMZFBGRpfEXHog.Vi1mhn0mdiwJW4wHfqTeGNR7DvGdMfCMC8CZsnlUf_8g.PNG.study2us%2Fimage.png&type=sc960_832))
 
 ### 주요 옵션
 | 옵션 | 설명 |
